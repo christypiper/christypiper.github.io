@@ -1,0 +1,22 @@
+img {
+	border: 2px solid black;
+}
+h1 {
+	color: red;
+}
+h2 {
+	border-bottom: 1px solid black;
+}
+li {
+	list-style-type: square;
+}
+a {
+	color: blue;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+.homepage {
+	color: #FF0066;
+}
